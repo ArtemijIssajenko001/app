@@ -176,8 +176,12 @@
 #    summa + test_summa
 #print(f"Сумма итог: {test_summa} eur")
 #print(f"Выгода: {test_summa - summa} eur" )
-for j in range(1, 11):
-    for i in range(1, 11):
-        print("{} ".format(i * j), end="")
-    print()
+
+
+#for j in range(1, 11):
+#    for i in range(1, 11):
+#        print("{} ".format(i * j), end="")
+#    print()
+
+
 
