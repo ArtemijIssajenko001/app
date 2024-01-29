@@ -1,1 +1,9 @@
+from ssl import ALERT_DESCRIPTION_BAD_CERTIFICATE_HASH_VALUE
+from this import s
 
+
+test
+ALERT_DESCRIPTION_BAD_CERTIFICATE_HASH_VALUEs
+s
+ss
+s
